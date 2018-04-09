@@ -1,7 +1,7 @@
 ---
-title: 欢迎来到个人博客
+title: Welcome to here!
 icon: fa-check
 order: 5
 ---
 
-<p>这是一个工作用博客，这意味着只有软件开发，工作中的问题，以及学习中出现的感想和文档才会出现在这里。而并非记录私人生活的博客，这里的文章中，有些是博主原创的文章，由于博主和读者的脑子可能其中有一个会比较楞，所以会出现文章并不能被理解的局面，如果你在阅读后，出现这种难堪的局面，你又一定要搞懂问题的根源，就像博主年轻时一样。这时候我愿意和一起探讨问题的根源，因为我也是一个直脑袋。还有一些文章是转载的博主觉得写得很好很有用的文章，我会注明出处，如果有版权侵犯，请与我联系。</p>
+<p>This is a blog to record almost everything in my life. Both work and personal life.why I set it up is simple, just hobby.I wanna discover everything I'm interested in, and scribble it down here whether I like it or not, everyone should have the voice to express what they were think about, about dream, about thought, about the human being, about the world that we will live on over our life. Finally do all the contribution we can do to make the world better.</p>

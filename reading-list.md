@@ -1,6 +1,6 @@
 ---
-title: 阅读
-subtitle: Some books I have read and I'm gonna recommand to you
+title: Read
+subtitle: Some books I have read and I wanna recommand to you
 layout: "page"
 icon: fa-book
 order: 3
