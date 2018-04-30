@@ -8,13 +8,13 @@ solr的同步发行包smartcn可进行中文切词，smartcn的分词准确率�
 第一步: 
 找到如下目录，复制中文分词器jar到solr项目的WEB-INF/lib目录下: 
 
-<img src="_posts/solr/20170611140032910.png">
-<img src="_posts/solr/20170611140044500.png">
+<img src="../_posts/solr/20170611140032910.png">
+<img src="../_posts/solr/20170611140044500.png">
 
  
 第二步: 
 在自定义的core下配置schema
-<img src="_posts/solr/image.png">
+<img src="../_posts/solr/image.png">
 
 
 <types>
