@@ -1,5 +1,5 @@
 ---
-title: Solr配置中文分词器smartcn
+title: 2018/04/08 Solr配置中文分词器smartcn
 author: 林加友
 layout: post
 ---
